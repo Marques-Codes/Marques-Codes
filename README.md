@@ -1,35 +1,27 @@
-<!-- PROFILE README - Marques-Codes -->
-
-<div align="center">
-
 # 👋 Olá! Eu sou o Luan Marques
 
-**Suporte de TI (há ~4 anos) → Migrando para Dev**  
-Construindo meu portfólio e documentando minha evolução em **Golang**.
+Suporte de TI (há ~4 anos) → Migrando para Desenvolvimento de Software.  
+Construindo meu portfólio e documentando minha evolução em **Golang (Go)**.
 
-[🌐 Portfólio](https://SEU_LINK_AQUI) • [📝 Blog](https://SEU_LINK_AQUI/blog) • [💼 LinkedIn](https://SEU_LINK_AQUI) • [📧 Email](mailto:SEU_EMAIL_AQUI)
-
-</div>
+🌐 **Portfólio:** https://marquesdev.com.br  
+📝 **Blog:** https://marquesdev.com.br/blog  
+💼 **LinkedIn:** https://www.linkedin.com/in/luan-marques-pereira-125852205/  
+📧 **Email:** mailto:marquesdev22@gmail.com  
 
 ---
 
 ## 🚀 O que eu estou fazendo agora
 
-- 🦀 Estudando **Golang** (fundamentos, ownership/borrowing, concorrência, performance)
-- 🧠 Evoluindo em **algoritmos e estruturas de dados** (na prática)
-- 🔧 Construindo projetos reais pra aprender de verdade (e deixar público)
+- 🧩 Estudando **Golang** (fundamentos, APIs, testes, boas práticas)
+- ⚡ Aprendendo mais sobre **concorrência** (goroutines, channels, context)
+- 🧠 Evoluindo em **algoritmos e estruturas de dados** na prática
+- 🔧 Construindo **projetos reais** para aprender de verdade e manter tudo público
 
 ---
 
-## 📌 Objetivo
+## 🎯 Objetivo
 
-📍 Meu foco é **me tornar desenvolvedor**.  
-Aqui no GitHub eu registro minha evolução com consistência e projetos reais.
+Meu foco é me tornar **desenvolvedor profissional**.  
+Aqui no GitHub eu registro minha evolução com consistência, projetos reais e aprendizado contínuo.
 
----
-
-<div align="center">
-
-### Se curtir minha jornada, acompanha aí 😄
-
-</div>
+Se quiser acompanhar minha jornada, fica à vontade pra seguir ⭐

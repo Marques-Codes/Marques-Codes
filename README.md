@@ -1,26 +1,35 @@
-# 👋 Opa! Eu sou o Luan (Marques)
+<!-- PROFILE README - Marques-Codes -->
 
-Sou dev em formação e estou construindo minha base com foco em **Rust**, boas práticas e projetos reais.
-Registro aprendizados, erros, acertos e evolução.
+<div align="center">
+
+# 👋 Olá! Eu sou o Luan Marques
+
+**Suporte de TI (há ~4 anos) → Migrando para Dev**  
+Construindo meu portfólio e documentando minha evolução em **Rust**.
+
+[🌐 Portfólio](https://SEU_LINK_AQUI) • [📝 Blog](https://SEU_LINK_AQUI/blog) • [💼 LinkedIn](https://SEU_LINK_AQUI) • [📧 Email](mailto:SEU_EMAIL_AQUI)
+
+</div>
+
+---
+
+## 🚀 O que eu estou fazendo agora
+
+- 🦀 Estudando **Rust** (fundamentos, ownership/borrowing, concorrência, performance)
+- 🧠 Evoluindo em **algoritmos e estruturas de dados** (na prática)
+- 🔧 Construindo projetos reais pra aprender de verdade (e deixar público)
 
 ---
 
-## 🚀 O que estou fazendo agora
-- 🦀 Estudando **Rust** (fundamentos, ownership, lifetimes, concorrência)
-- ✍️ Escrevendo posts curtos no meu **Blog** sobre o que aprendi (com exemplos)
-- 🧪 Criando mini-projetos pra praticar (do “simples” ao “mais parrudo”)
-- 🇬🇧 Melhorando meu inglês aos poucos, junto com a rotina de estudo
+## 📌 Objetivo
+
+📍 Meu foco é **me tornar desenvolvedor**.  
+Aqui no GitHub eu registro minha evolução com consistência e projetos reais.
 
 ---
 
-## 🧠 Como eu gosto de aprender
-✅ projeto pequeno → ✅ refatoro → ✅ documento no blog → ✅ repito com algo maior  
-Eu aprendo melhor fazendo e explicando.
+<div align="center">
 
----
-## 🌐 Onde me encontrar
-- 🌍 Portfólio: **(coloque seu link aqui / Vercel)**
-- 📝 Blog: **(seu link /blog)**
-- 💼 LinkedIn: **(seu link)**
-- ✉️ Email: **marquesdev22@gmail.com**
+### Se curtir minha jornada, acompanha aí 😄
 
+</div>
